@@ -37,8 +37,8 @@ public class MainActivity extends AppCompatActivity {
     Button buttonResult;
     Button buttonClear;
     String buttonValue = "";
-    float value1;
-    float value2;
+    double value1;
+    double value2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

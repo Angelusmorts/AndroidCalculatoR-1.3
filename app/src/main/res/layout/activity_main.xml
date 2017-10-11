@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:background="#986723"
-            android:text="Result"
+            android:text=""
             android:textColor="#001100"
             android:textSize="50dp" />
 
